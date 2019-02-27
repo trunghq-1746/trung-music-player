@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TrungMusicPlayer</string>
+    <string name="notification_channel_id">com.example.trungmusicplayer.channel</string>
+    <string name="notification_channel_name">MediaSession</string>
+    <string name="notification_channel_des">MediaSession and MediaPlayer</string>
+    <string name="button_play">Play</string>
+    <string name="button_stop">STOP</string>
 </resources>
